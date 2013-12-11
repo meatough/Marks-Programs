@@ -1,0 +1,21 @@
+	bool isBlackjack(int Total)
+	{
+		if(Total == 21)
+		{
+			cout << "Blackjack!!! You win!!!" << endl;
+			return true;
+		}
+		return false;
+		
+	} // end isBlackjack method
+	
+	bool isBust(int Total)
+	{
+		if(Total > 21)
+		{
+			cout << "Sucks to suck, you got bust" << endl;
+			return true;
+		}
+		return false;
+	
+	} // end of isBust method
