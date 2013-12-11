@@ -1,0 +1,41 @@
+!656;s
+A
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!104;u
+a0	b132	c255	f%\011Contacts.jar	g%\011Contacts.zip	hManifest-Version\0111.0\011Main-Class\011ContactTest!336;g
+%\011ContactButtonsMenu.class
+%\011ContactButtonsMenu.java
+%\011Contact.class
+%\011ContactTest.class
+%\011FriendContact.java
+%\011BusinessContact.java
+%\011ContactTest.java
+%\011FriendContact.class
+%\011FamilyContact.class
+%\011BusinessContact.class
+%\011ContactButtonsMenu$ButtonHandler.class
+%\011Contact.java
+%\011FamilyContact.java
+!297;f
+%	ContactButtonsMenu.class
+%	ContactButtonsMenu.java
+%	Contact.class
+%	ContactTest.class
+%	FriendContact.java
+%	BusinessContact.java
+%	ContactTest.java
+%	FriendContact.class
+%	FamilyContact.class
+%	BusinessContact.class
+%	ContactButtonsMenu$ButtonHandler.class
+%	Contact.java
+%	FamilyContact.java
