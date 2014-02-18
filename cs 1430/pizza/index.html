@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Eatough's Pizza</title>
+     <link rel="icon" type="jpg" href="index.jpg" />
+        <style>
+            body{text-align: center}
+            table{ margin-left: auto; margin-right: auto;}
+                td {text-align: left;}
+        </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body bgcolor='667C26' text = 'Maroon'>
+        <b>
+        <h1>Eatough's Pizza</h1>
+    <Center>
+        <img border="0" src="index.jpg" alt="pizza" width="401" height="352">
+    </center>
+    <br/><br/>
+        <form name="pizzaForm" action="MAILTO: meatough@bruinmail.slcc.edu" method="post" enctype="text/plain">
+            Name:  <input type="text" name="name" value="Your Name" size="20" maxlength="20">
+            Phone:  <input type="text" name="phone" value="Phone Number" size="15" maxlength="15">
+            <br/><br/>
+            Address:  <input type="text" name="address" value="Your Address" size="50" maxlength="50">
+            City:  <input type="text" name="city" value="Your City" size="20" maxlength="20">
+            <br/><br/>
+            Email:  <input type="text" name="email" value="Your Email" size="50" maxlength="50">
+            <br/><br/>
+            Comment:  <input type="text" name="address" value="Enter Comment" size="50" maxlength="50">
+            <br/><br/><br/><br/>
+            <h3>Delivery/Carry Out</h3>
+        <input type="radio" name="size" value="delivery"/>Delivery &nbsp; &nbsp;
+        <input type="radio" name="size" value="carryOut"/>Carry Out &nbsp; &nbsp;
+        <br/><br/>
+            <h3>SIZE</h3>
+        <input type="radio" name="size" value="small"/>Small &nbsp; &nbsp;
+        <br/>
+        <input type="radio" name="size" value="medium"/>Medium &nbsp; &nbsp;
+        <br/>
+        <input type="radio" name="size" value="large"/>Large &nbsp; &nbsp;
+        <br/>
+        <input type="radio" name="size" value="extra large"/>X-Large &nbsp; &nbsp;
+        
+        <br/><br/><br/>
+            <h3>TOPPINGS</h3>
+        <table border="0" cellspacing="20">
+                <tr>
+                    <td>
+                        Meat and Cheese                 
+                    </td>
+                    <td>
+                        Fresh vegetables
+                    </td>
+                </tr>
+          </table>
+            <table>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="toppings" value="Pepperoni" checked/>
+                    </td>
+                    <td>
+                        Pepperoni
+                    </td>
+                    <td>
+                        <input type="checkbox" name="toppings" value="peppers" />
+                    </td>
+                    <td>
+                        Peppers
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="toppings" value="X-Cheese" />
+                    </td>
+                    <td>
+                        X-Cheese
+                    </td>
+                    <td>
+                        <input type="checkbox" name="toppings" value="mushrooms" />
+                    </td>
+                    <td>
+                        Mushrooms
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="toppings" value="Sausage" />
+                    </td>
+                    <td>
+                        Sausage
+                    </td>
+                    <td>
+                        <input type="checkbox" name="toppings" value="pineapple" />
+                    </td>
+                    <td>
+                        Pineapple
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="toppings" value="Bacon" />
+                    </td>
+                    <td>
+                        Bacon
+                    </td>
+                    <td>
+                        <input type="checkbox" name="toppings" value="olives" />
+                    </td>
+                    <td>
+                        Olives
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="toppings" value="anchovies" />
+                    </td>
+                    <td>
+                        Anchovies
+                    </td>
+                     <td>
+                        <input type="checkbox" name="toppings" value="onions" />
+                    </td>
+                    <td>
+                        Onions
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="toppings" value="canadaBacon" />
+                    </td>
+                    <td>
+                        Canadian Bacon
+                    </td>
+                    <td>
+                        <input type="checkbox" name="toppings" value="jalapenos" />
+                    </td>
+                    <td>
+                        Jalapenos
+                    </td>
+                </tr>
+            </table>
+        <br/>
+         <br/><br/>
+            <h3>CRUST</h3>
+         <select name="crust">
+             <option value="Thin">Thin</option>
+             <option value="Regular" selected>Regular</option>
+             <option value="Thick">Thick</option>
+             <option value="Deep">Deep</option>
+             <option value="Stuffed">Stuffed</option>
+         </select>
+         <br/><br/><br/>
+         <input type="submit" value="Submit"/>
+         <br/><br/>
+         <input type="reset" value="Reset"/>
+       </form> 
+    </b>
+    </body>
+</html>

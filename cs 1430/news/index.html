@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>In Line Frame Example</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <style>
+            div 
+            {
+                background-color: #f00000;
+                color: #00001f;
+                text-align: center;
+                font-size: 32pt;
+                height: 100px;
+            }
+            table
+            {
+                padding: 5%;
+            }
+        </style>
+    </head>
+    <body bgColor="#c0c0c0">
+        <div>Mark Eatough</div>
+        <table>
+            <tr>
+                <td valign="top" bgcolor="green">
+                    <ul>
+                        <li><a href="http://reason.com/" target="newsFrame">REASON</a></li>
+                        <li><a href="http://www.libertariannews.org/" target="newsFrame">Libertarian News</a></li>
+                        <li><a href="http://www.cato.org/" target="newsFrame">CATO Institute</a></li>
+                        <li><a href="http://mises.org/" target="newsFrame">Mises Institute</a></li>
+                        <li><a href="http://desnews.com" target="newsFrame">Deseret NEWS</a></li>
+                        <li><a href="http://www.sltrib.com/" target="newsFrame">The TRIB</a></li>
+                    </ul>
+                </td>
+                <td width="1000px" height="800px">
+                    <iframe
+                        srC="http://reason.com/"
+                        name="newsFrame"
+                        height="100%"
+                        width="100%"
+                        > </iframe>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
