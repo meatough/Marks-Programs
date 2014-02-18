@@ -1,0 +1,33 @@
+!648;s
+A
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%V1\\Bin;\012PATH+=%<JGRASP_PATHS>%;
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!119;u
+a0	b196	c255	f%\011RecursiveSort.jar	g%\011RecursiveSort.zip	hManifest-Version\0111.0\011Main-Class\011RecursiveSortApp!212;g
+%\011SinglyLinkedList.class
+%\011SinglyLinkedList.java
+%\011SLNode.class
+%\011RecursiveSort.java
+%\011RecursiveSort.class
+%\011SLNode.java
+%\011RecursiveSortApp.java
+%\011practice.cpp
+%\011RecursiveSortApp.class
+!185;f
+%	SinglyLinkedList.class
+%	SinglyLinkedList.java
+%	SLNode.class
+%	RecursiveSort.java
+%	RecursiveSort.class
+%	SLNode.java
+%	RecursiveSortApp.java
+%	practice.cpp
+%	RecursiveSortApp.class

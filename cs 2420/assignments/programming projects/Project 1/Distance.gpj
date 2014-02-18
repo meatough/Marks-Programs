@@ -1,0 +1,22 @@
+!648;s
+A
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%V1\\Bin;\012PATH+=%<JGRASP_PATHS>%;
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!174;u
+a0	b6	c255	d%\\011Distance Class Test Plan.pdf\011%\\011Reflection Paper.pdf	f%\011Distance.jar	g%\011Distance.zip	hManifest-Version\0111.0\011Main-Class\011DistanceException!26;a
+a%\011Distance_doc	b	c1	d0!72;g
+%\011DistanceException.java
+%\011Distance.java
+%\011DistanceTester.java
+!63;f
+%	DistanceException.java
+%	Distance.java
+%	DistanceTester.java

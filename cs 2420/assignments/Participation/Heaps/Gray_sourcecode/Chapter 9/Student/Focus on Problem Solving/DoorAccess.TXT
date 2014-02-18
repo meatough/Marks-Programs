@@ -1,0 +1,1000 @@
+100005  20030103  09:00  Bad   RM-3408 Men's Restroom       
+100004  20030103  09:01  Good  RM-3401 Accounting Dept      
+100007  20030103  09:02  Bad   RM-3408 Men's Restroom       
+100005  20030103  09:03  Good  RM-3406 Showroom             
+100001  20030103  09:04  Good  RM-3403 Marketing Dept       
+100004  20030103  09:05  Bad   RM-3408 Men's Restroom       
+100008  20030103  09:06  Good  RM-3403 Marketing Dept       
+100010  20030103  09:07  Bad   RM-3406 Showroom             
+100007  20030103  09:08  Bad   RM-3408 Men's Restroom       
+100003  20030103  09:09  Bad   RM-3405 R&D Dept             
+100002  20030103  09:10  Good  RM-3404 Advertising Dept     
+100007  20030103  09:11  Bad   RM-3407 Shipping Dept        
+100009  20030103  09:12  Good  RM-3408 Men's Restroom       
+100007  20030103  10:13  Bad   RM-3403 Marketing Dept       
+100009  20030103  10:14  Bad   RM-3406 Showroom             
+100005  20030103  10:15  Bad   RM-3409 Women's Restroom     
+100002  20030103  10:16  Bad   RM-3402 Sales Dept           
+100010  20030103  10:17  Bad   RM-3409 Women's Restroom     
+100002  20030103  10:18  Bad   RM-3403 Marketing Dept       
+100008  20030103  10:19  Bad   RM-3401 Accounting Dept      
+100003  20030103  10:20  Good  RM-3405 R&D Dept             
+100004  20030103  10:21  Bad   RM-3406 Showroom             
+100001  20030103  10:22  Good  RM-3402 Sales Dept           
+100010  20030103  10:23  Bad   RM-3402 Sales Dept           
+100003  20030103  11:05  Bad   RM-3409 Women's Restroom     
+100001  20030103  11:06  Good  RM-3407 Shipping Dept        
+100010  20030103  11:07  Good  RM-3404 Advertising Dept     
+100008  20030103  11:08  Bad   RM-3406 Showroom             
+100005  20030103  11:09  Bad   RM-3408 Men's Restroom       
+100003  20030103  11:10  Good  RM-3403 Marketing Dept       
+100009  20030103  11:11  Bad   RM-3406 Showroom             
+100006  20030103  11:12  Good  RM-3405 R&D Dept             
+100008  20030103  11:13  Good  RM-3405 R&D Dept             
+100005  20030103  11:14  Good  RM-3409 Women's Restroom     
+100003  20030103  11:15  Bad   RM-3402 Sales Dept           
+100006  20030103  11:16  Bad   RM-3407 Shipping Dept        
+100005  20030103  11:17  Good  RM-3409 Women's Restroom     
+100003  20030103  11:18  Good  RM-3401 Accounting Dept      
+100009  20030103  12:23  Bad   RM-3407 Shipping Dept        
+100003  20030103  12:24  Bad   RM-3403 Marketing Dept       
+100005  20030103  12:25  Good  RM-3407 Shipping Dept        
+100010  20030103  12:26  Good  RM-3407 Shipping Dept        
+100005  20030103  12:27  Good  RM-3401 Accounting Dept      
+100003  20030103  12:28  Bad   RM-3401 Accounting Dept      
+100002  20030103  12:29  Bad   RM-3409 Women's Restroom     
+100010  20030103  12:30  Good  RM-3406 Showroom             
+100010  20030103  12:31  Good  RM-3406 Showroom             
+100003  20030103  12:32  Bad   RM-3405 R&D Dept             
+100009  20030103  12:33  Good  RM-3407 Shipping Dept        
+100010  20030103  12:34  Bad   RM-3406 Showroom             
+100006  20030106  09:03  Good  RM-3402 Sales Dept           
+100008  20030106  09:04  Good  RM-3409 Women's Restroom     
+100010  20030106  09:05  Good  RM-3403 Marketing Dept       
+100010  20030106  09:06  Bad   RM-3406 Showroom             
+100005  20030106  09:07  Good  RM-3403 Marketing Dept       
+100002  20030106  09:08  Bad   RM-3404 Advertising Dept     
+100006  20030106  09:09  Good  RM-3403 Marketing Dept       
+100002  20030106  09:10  Bad   RM-3408 Men's Restroom       
+100007  20030106  09:11  Good  RM-3409 Women's Restroom     
+100004  20030106  09:12  Bad   RM-3403 Marketing Dept       
+100004  20030106  09:13  Bad   RM-3406 Showroom             
+100004  20030106  09:14  Bad   RM-3403 Marketing Dept       
+100003  20030106  09:15  Bad   RM-3401 Accounting Dept      
+100002  20030106  09:16  Good  RM-3406 Showroom             
+100006  20030106  10:05  Bad   RM-3402 Sales Dept           
+100005  20030106  10:06  Bad   RM-3402 Sales Dept           
+100004  20030106  10:07  Good  RM-3404 Advertising Dept     
+100007  20030106  10:08  Bad   RM-3404 Advertising Dept     
+100008  20030106  10:09  Bad   RM-3406 Showroom             
+100002  20030106  10:10  Bad   RM-3403 Marketing Dept       
+100001  20030106  10:11  Good  RM-3402 Sales Dept           
+100002  20030106  10:12  Bad   RM-3407 Shipping Dept        
+100006  20030106  10:13  Good  RM-3406 Showroom             
+100005  20030106  10:14  Bad   RM-3401 Accounting Dept      
+100003  20030106  10:15  Bad   RM-3406 Showroom             
+100003  20030106  11:08  Good  RM-3405 R&D Dept             
+100003  20030106  11:09  Bad   RM-3402 Sales Dept           
+100009  20030106  11:10  Good  RM-3405 R&D Dept             
+100007  20030106  11:11  Good  RM-3401 Accounting Dept      
+100006  20030106  11:12  Good  RM-3402 Sales Dept           
+100001  20030106  11:13  Good  RM-3404 Advertising Dept     
+100003  20030106  11:14  Good  RM-3409 Women's Restroom     
+100010  20030106  11:15  Good  RM-3402 Sales Dept           
+100010  20030106  12:17  Good  RM-3405 R&D Dept             
+100003  20030106  12:18  Bad   RM-3406 Showroom             
+100004  20030106  12:19  Bad   RM-3402 Sales Dept           
+100003  20030106  12:20  Good  RM-3401 Accounting Dept      
+100004  20030106  12:21  Good  RM-3402 Sales Dept           
+100007  20030106  12:22  Bad   RM-3406 Showroom             
+100008  20030106  12:23  Good  RM-3403 Marketing Dept       
+100009  20030106  12:24  Good  RM-3408 Men's Restroom       
+100008  20030106  13:09  Bad   RM-3401 Accounting Dept      
+100001  20030106  13:10  Bad   RM-3401 Accounting Dept      
+100007  20030106  13:11  Bad   RM-3407 Shipping Dept        
+100004  20030106  13:12  Good  RM-3405 R&D Dept             
+100005  20030106  13:13  Good  RM-3401 Accounting Dept      
+100004  20030106  13:14  Good  RM-3409 Women's Restroom     
+100008  20030106  13:15  Good  RM-3405 R&D Dept             
+100007  20030106  13:16  Good  RM-3405 R&D Dept             
+100005  20030106  13:17  Good  RM-3403 Marketing Dept       
+100007  20030106  13:18  Bad   RM-3409 Women's Restroom     
+100008  20030107  09:00  Bad   RM-3401 Accounting Dept      
+100004  20030107  09:01  Bad   RM-3406 Showroom             
+100007  20030107  09:02  Good  RM-3402 Sales Dept           
+100006  20030107  09:03  Bad   RM-3407 Shipping Dept        
+100005  20030107  09:04  Bad   RM-3408 Men's Restroom       
+100009  20030107  09:05  Good  RM-3401 Accounting Dept      
+100007  20030107  09:06  Good  RM-3403 Marketing Dept       
+100010  20030107  09:07  Bad   RM-3401 Accounting Dept      
+100005  20030107  10:19  Bad   RM-3405 R&D Dept             
+100004  20030107  10:20  Bad   RM-3409 Women's Restroom     
+100002  20030107  10:21  Good  RM-3409 Women's Restroom     
+100007  20030107  10:22  Good  RM-3404 Advertising Dept     
+100010  20030107  10:23  Good  RM-3405 R&D Dept             
+100008  20030107  10:24  Good  RM-3403 Marketing Dept       
+100003  20030107  10:25  Good  RM-3404 Advertising Dept     
+100006  20030107  10:26  Bad   RM-3406 Showroom             
+100005  20030107  10:27  Good  RM-3402 Sales Dept           
+100007  20030107  10:28  Good  RM-3401 Accounting Dept      
+100004  20030107  10:29  Good  RM-3401 Accounting Dept      
+100008  20030107  10:30  Good  RM-3405 R&D Dept             
+100005  20030107  11:04  Bad   RM-3407 Shipping Dept        
+100007  20030107  11:05  Bad   RM-3402 Sales Dept           
+100001  20030107  11:06  Bad   RM-3406 Showroom             
+100008  20030107  11:07  Bad   RM-3408 Men's Restroom       
+100010  20030107  11:08  Bad   RM-3406 Showroom             
+100004  20030107  11:09  Bad   RM-3409 Women's Restroom     
+100009  20030107  11:10  Bad   RM-3409 Women's Restroom     
+100004  20030107  11:11  Bad   RM-3407 Shipping Dept        
+100003  20030107  11:12  Good  RM-3406 Showroom             
+100008  20030107  11:13  Bad   RM-3402 Sales Dept           
+100008  20030107  11:14  Bad   RM-3402 Sales Dept           
+100009  20030107  11:15  Bad   RM-3404 Advertising Dept     
+100007  20030107  11:16  Good  RM-3402 Sales Dept           
+100001  20030107  12:37  Good  RM-3401 Accounting Dept      
+100006  20030107  12:38  Good  RM-3408 Men's Restroom       
+100009  20030107  12:39  Good  RM-3407 Shipping Dept        
+100010  20030107  12:40  Bad   RM-3401 Accounting Dept      
+100002  20030107  12:41  Good  RM-3402 Sales Dept           
+100010  20030107  12:42  Bad   RM-3404 Advertising Dept     
+100010  20030107  12:43  Good  RM-3403 Marketing Dept       
+100003  20030107  12:44  Bad   RM-3407 Shipping Dept        
+100002  20030107  12:45  Good  RM-3403 Marketing Dept       
+100003  20030107  12:46  Bad   RM-3404 Advertising Dept     
+100009  20030107  12:47  Bad   RM-3404 Advertising Dept     
+100002  20030107  12:48  Bad   RM-3406 Showroom             
+100010  20030107  12:49  Good  RM-3407 Shipping Dept        
+100006  20030107  12:50  Good  RM-3402 Sales Dept           
+100002  20030107  13:28  Bad   RM-3407 Shipping Dept        
+100001  20030107  13:29  Bad   RM-3409 Women's Restroom     
+100007  20030107  13:30  Good  RM-3409 Women's Restroom     
+100010  20030107  13:31  Bad   RM-3403 Marketing Dept       
+100005  20030107  13:32  Good  RM-3408 Men's Restroom       
+100003  20030107  13:33  Good  RM-3407 Shipping Dept        
+100003  20030107  13:34  Bad   RM-3409 Women's Restroom     
+100003  20030107  13:35  Good  RM-3408 Men's Restroom       
+100001  20030107  13:36  Good  RM-3407 Shipping Dept        
+100004  20030107  13:37  Bad   RM-3408 Men's Restroom       
+100004  20030107  14:11  Bad   RM-3405 R&D Dept             
+100004  20030107  14:12  Bad   RM-3405 R&D Dept             
+100010  20030107  14:13  Good  RM-3402 Sales Dept           
+100001  20030107  14:14  Bad   RM-3409 Women's Restroom     
+100008  20030107  14:15  Good  RM-3407 Shipping Dept        
+100006  20030107  14:16  Bad   RM-3408 Men's Restroom       
+100003  20030107  14:17  Good  RM-3407 Shipping Dept        
+100010  20030107  14:18  Bad   RM-3405 R&D Dept             
+100008  20030107  14:19  Bad   RM-3409 Women's Restroom     
+100007  20030107  14:20  Bad   RM-3407 Shipping Dept        
+100007  20030107  14:21  Good  RM-3408 Men's Restroom       
+100002  20030107  14:22  Bad   RM-3407 Shipping Dept        
+100010  20030107  14:23  Good  RM-3409 Women's Restroom     
+100004  20030107  14:24  Good  RM-3402 Sales Dept           
+100010  20030107  14:25  Good  RM-3404 Advertising Dept     
+100008  20030107  14:26  Good  RM-3409 Women's Restroom     
+100009  20030107  14:27  Bad   RM-3404 Advertising Dept     
+100009  20030108  09:00  Bad   RM-3402 Sales Dept           
+100002  20030108  09:01  Good  RM-3407 Shipping Dept        
+100006  20030108  09:02  Bad   RM-3401 Accounting Dept      
+100010  20030108  09:03  Good  RM-3402 Sales Dept           
+100001  20030108  09:04  Bad   RM-3405 R&D Dept             
+100007  20030108  09:05  Bad   RM-3401 Accounting Dept      
+100004  20030108  09:06  Bad   RM-3407 Shipping Dept        
+100005  20030108  09:07  Bad   RM-3402 Sales Dept           
+100005  20030108  09:08  Good  RM-3403 Marketing Dept       
+100007  20030108  09:09  Good  RM-3405 R&D Dept             
+100007  20030108  10:08  Bad   RM-3407 Shipping Dept        
+100006  20030108  10:09  Good  RM-3401 Accounting Dept      
+100008  20030108  10:10  Good  RM-3409 Women's Restroom     
+100008  20030108  10:11  Bad   RM-3405 R&D Dept             
+100008  20030108  10:12  Good  RM-3405 R&D Dept             
+100002  20030108  10:13  Bad   RM-3408 Men's Restroom       
+100001  20030108  10:14  Bad   RM-3407 Shipping Dept        
+100006  20030108  10:15  Good  RM-3405 R&D Dept             
+100010  20030108  10:16  Good  RM-3402 Sales Dept           
+100007  20030108  10:17  Good  RM-3406 Showroom             
+100010  20030108  10:18  Bad   RM-3407 Shipping Dept        
+100006  20030108  10:19  Bad   RM-3402 Sales Dept           
+100008  20030108  10:20  Bad   RM-3401 Accounting Dept      
+100004  20030108  10:21  Bad   RM-3409 Women's Restroom     
+100005  20030108  10:22  Bad   RM-3408 Men's Restroom       
+100002  20030108  10:23  Bad   RM-3409 Women's Restroom     
+100003  20030108  10:24  Good  RM-3408 Men's Restroom       
+100007  20030108  10:25  Good  RM-3402 Sales Dept           
+100004  20030108  10:26  Good  RM-3409 Women's Restroom     
+100009  20030108  10:27  Good  RM-3403 Marketing Dept       
+100001  20030108  10:28  Good  RM-3409 Women's Restroom     
+100009  20030108  11:31  Good  RM-3403 Marketing Dept       
+100009  20030108  11:32  Good  RM-3408 Men's Restroom       
+100001  20030108  11:33  Bad   RM-3403 Marketing Dept       
+100001  20030108  11:34  Good  RM-3402 Sales Dept           
+100002  20030108  11:35  Good  RM-3407 Shipping Dept        
+100004  20030108  11:36  Good  RM-3405 R&D Dept             
+100001  20030108  11:37  Bad   RM-3403 Marketing Dept       
+100008  20030108  11:38  Good  RM-3403 Marketing Dept       
+100006  20030108  11:39  Good  RM-3407 Shipping Dept        
+100003  20030108  11:40  Bad   RM-3408 Men's Restroom       
+100009  20030108  11:41  Bad   RM-3408 Men's Restroom       
+100004  20030108  11:42  Bad   RM-3402 Sales Dept           
+100004  20030108  11:43  Good  RM-3405 R&D Dept             
+100003  20030108  11:44  Bad   RM-3409 Women's Restroom     
+100002  20030108  11:45  Bad   RM-3405 R&D Dept             
+100006  20030108  11:46  Bad   RM-3404 Advertising Dept     
+100001  20030108  11:47  Good  RM-3408 Men's Restroom       
+100007  20030108  12:18  Bad   RM-3406 Showroom             
+100008  20030108  12:19  Good  RM-3409 Women's Restroom     
+100007  20030108  12:20  Bad   RM-3408 Men's Restroom       
+100007  20030109  09:00  Bad   RM-3406 Showroom             
+100009  20030109  09:01  Bad   RM-3404 Advertising Dept     
+100004  20030109  09:02  Bad   RM-3405 R&D Dept             
+100006  20030109  09:03  Good  RM-3402 Sales Dept           
+100009  20030109  09:04  Good  RM-3403 Marketing Dept       
+100005  20030109  09:05  Good  RM-3407 Shipping Dept        
+100004  20030109  09:06  Bad   RM-3401 Accounting Dept      
+100005  20030109  09:07  Bad   RM-3405 R&D Dept             
+100003  20030109  09:08  Good  RM-3407 Shipping Dept        
+100009  20030109  09:09  Bad   RM-3401 Accounting Dept      
+100003  20030109  10:37  Bad   RM-3405 R&D Dept             
+100007  20030109  10:38  Bad   RM-3409 Women's Restroom     
+100005  20030109  10:39  Good  RM-3401 Accounting Dept      
+100003  20030109  10:40  Bad   RM-3408 Men's Restroom       
+100003  20030109  10:41  Good  RM-3403 Marketing Dept       
+100001  20030109  10:42  Bad   RM-3401 Accounting Dept      
+100003  20030109  10:43  Bad   RM-3403 Marketing Dept       
+100001  20030109  10:44  Bad   RM-3402 Sales Dept           
+100006  20030109  10:45  Bad   RM-3401 Accounting Dept      
+100009  20030109  10:46  Good  RM-3402 Sales Dept           
+100003  20030109  10:47  Bad   RM-3405 R&D Dept             
+100001  20030109  10:48  Good  RM-3401 Accounting Dept      
+100007  20030109  10:49  Good  RM-3408 Men's Restroom       
+100006  20030109  11:09  Bad   RM-3407 Shipping Dept        
+100003  20030109  11:10  Bad   RM-3408 Men's Restroom       
+100006  20030109  11:11  Good  RM-3405 R&D Dept             
+100009  20030109  11:12  Bad   RM-3404 Advertising Dept     
+100005  20030109  11:13  Bad   RM-3406 Showroom             
+100007  20030109  11:14  Bad   RM-3407 Shipping Dept        
+100004  20030109  11:15  Good  RM-3407 Shipping Dept        
+100001  20030109  11:16  Bad   RM-3408 Men's Restroom       
+100003  20030109  11:17  Bad   RM-3406 Showroom             
+100003  20030109  11:18  Good  RM-3402 Sales Dept           
+100009  20030109  11:19  Good  RM-3406 Showroom             
+100002  20030109  11:20  Bad   RM-3409 Women's Restroom     
+100003  20030109  12:15  Bad   RM-3403 Marketing Dept       
+100003  20030109  12:16  Bad   RM-3407 Shipping Dept        
+100001  20030109  12:17  Bad   RM-3407 Shipping Dept        
+100005  20030109  12:18  Good  RM-3407 Shipping Dept        
+100009  20030109  12:19  Bad   RM-3409 Women's Restroom     
+100002  20030109  12:20  Good  RM-3406 Showroom             
+100008  20030109  12:21  Bad   RM-3408 Men's Restroom       
+100010  20030109  12:22  Good  RM-3407 Shipping Dept        
+100002  20030109  12:23  Good  RM-3406 Showroom             
+100010  20030109  12:24  Bad   RM-3409 Women's Restroom     
+100010  20030109  12:25  Bad   RM-3404 Advertising Dept     
+100004  20030109  12:26  Bad   RM-3409 Women's Restroom     
+100010  20030109  13:21  Bad   RM-3406 Showroom             
+100010  20030109  13:22  Bad   RM-3401 Accounting Dept      
+100005  20030109  13:23  Good  RM-3409 Women's Restroom     
+100003  20030109  13:24  Bad   RM-3408 Men's Restroom       
+100003  20030109  13:25  Bad   RM-3402 Sales Dept           
+100002  20030109  13:26  Bad   RM-3403 Marketing Dept       
+100002  20030110  09:00  Good  RM-3402 Sales Dept           
+100007  20030110  09:01  Bad   RM-3402 Sales Dept           
+100010  20030110  09:02  Bad   RM-3405 R&D Dept             
+100003  20030110  09:03  Bad   RM-3404 Advertising Dept     
+100002  20030110  09:04  Bad   RM-3407 Shipping Dept        
+100006  20030110  09:05  Good  RM-3404 Advertising Dept     
+100009  20030110  09:06  Bad   RM-3402 Sales Dept           
+100002  20030110  09:07  Good  RM-3403 Marketing Dept       
+100008  20030110  09:08  Good  RM-3405 R&D Dept             
+100010  20030110  09:09  Good  RM-3409 Women's Restroom     
+100003  20030110  09:10  Good  RM-3406 Showroom             
+100002  20030110  10:41  Bad   RM-3405 R&D Dept             
+100008  20030110  10:42  Bad   RM-3407 Shipping Dept        
+100001  20030110  10:43  Good  RM-3402 Sales Dept           
+100006  20030110  10:44  Good  RM-3405 R&D Dept             
+100007  20030110  10:45  Bad   RM-3402 Sales Dept           
+100010  20030110  10:46  Bad   RM-3409 Women's Restroom     
+100001  20030110  10:47  Bad   RM-3407 Shipping Dept        
+100009  20030110  10:48  Bad   RM-3406 Showroom             
+100006  20030110  10:49  Bad   RM-3406 Showroom             
+100009  20030110  10:50  Bad   RM-3405 R&D Dept             
+100010  20030110  10:51  Bad   RM-3409 Women's Restroom     
+100007  20030110  10:52  Good  RM-3407 Shipping Dept        
+100002  20030110  10:53  Good  RM-3405 R&D Dept             
+100006  20030110  10:54  Bad   RM-3401 Accounting Dept      
+100008  20030110  10:55  Bad   RM-3402 Sales Dept           
+100001  20030110  10:56  Good  RM-3401 Accounting Dept      
+100006  20030110  10:57  Bad   RM-3408 Men's Restroom       
+100007  20030110  10:58  Bad   RM-3406 Showroom             
+100007  20030110  11:13  Bad   RM-3409 Women's Restroom     
+100008  20030110  11:14  Bad   RM-3404 Advertising Dept     
+100002  20030110  11:15  Bad   RM-3405 R&D Dept             
+100006  20030110  11:16  Good  RM-3409 Women's Restroom     
+100010  20030110  11:17  Bad   RM-3408 Men's Restroom       
+100008  20030110  11:18  Good  RM-3407 Shipping Dept        
+100005  20030110  11:19  Bad   RM-3407 Shipping Dept        
+100004  20030110  11:20  Bad   RM-3405 R&D Dept             
+100003  20030110  11:21  Bad   RM-3401 Accounting Dept      
+100008  20030110  12:22  Bad   RM-3401 Accounting Dept      
+100003  20030110  12:23  Good  RM-3408 Men's Restroom       
+100005  20030110  12:24  Good  RM-3402 Sales Dept           
+100004  20030110  12:25  Bad   RM-3401 Accounting Dept      
+100004  20030110  12:26  Bad   RM-3401 Accounting Dept      
+100010  20030110  12:27  Good  RM-3408 Men's Restroom       
+100010  20030110  12:28  Good  RM-3408 Men's Restroom       
+100002  20030110  12:29  Bad   RM-3401 Accounting Dept      
+100004  20030110  12:30  Bad   RM-3402 Sales Dept           
+100005  20030110  12:31  Good  RM-3406 Showroom             
+100004  20030110  12:32  Good  RM-3403 Marketing Dept       
+100003  20030110  12:33  Good  RM-3404 Advertising Dept     
+100009  20030113  09:04  Good  RM-3408 Men's Restroom       
+100006  20030113  09:05  Bad   RM-3402 Sales Dept           
+100004  20030113  09:06  Good  RM-3409 Women's Restroom     
+100001  20030113  09:07  Good  RM-3408 Men's Restroom       
+100009  20030113  09:08  Good  RM-3401 Accounting Dept      
+100008  20030113  09:09  Bad   RM-3404 Advertising Dept     
+100001  20030113  09:10  Good  RM-3408 Men's Restroom       
+100010  20030113  09:11  Good  RM-3409 Women's Restroom     
+100007  20030113  09:12  Good  RM-3407 Shipping Dept        
+100006  20030113  09:13  Good  RM-3402 Sales Dept           
+100002  20030113  09:14  Bad   RM-3409 Women's Restroom     
+100003  20030113  09:15  Bad   RM-3402 Sales Dept           
+100002  20030113  09:16  Good  RM-3405 R&D Dept             
+100002  20030113  09:17  Bad   RM-3408 Men's Restroom       
+100007  20030113  09:18  Bad   RM-3405 R&D Dept             
+100008  20030113  10:01  Bad   RM-3403 Marketing Dept       
+100003  20030113  10:02  Good  RM-3404 Advertising Dept     
+100005  20030113  10:03  Good  RM-3409 Women's Restroom     
+100010  20030113  10:04  Bad   RM-3401 Accounting Dept      
+100006  20030113  10:05  Bad   RM-3407 Shipping Dept        
+100004  20030113  10:06  Good  RM-3401 Accounting Dept      
+100004  20030113  10:07  Good  RM-3405 R&D Dept             
+100002  20030113  10:08  Bad   RM-3401 Accounting Dept      
+100004  20030113  10:09  Good  RM-3408 Men's Restroom       
+100003  20030113  10:10  Good  RM-3404 Advertising Dept     
+100001  20030113  10:11  Good  RM-3407 Shipping Dept        
+100003  20030113  10:12  Bad   RM-3402 Sales Dept           
+100001  20030113  10:13  Good  RM-3402 Sales Dept           
+100004  20030113  10:14  Bad   RM-3407 Shipping Dept        
+100009  20030113  10:15  Bad   RM-3404 Advertising Dept     
+100002  20030113  10:16  Bad   RM-3407 Shipping Dept        
+100002  20030113  10:17  Good  RM-3406 Showroom             
+100002  20030113  11:22  Good  RM-3402 Sales Dept           
+100006  20030113  11:23  Bad   RM-3406 Showroom             
+100005  20030113  11:24  Bad   RM-3408 Men's Restroom       
+100002  20030113  11:25  Bad   RM-3406 Showroom             
+100001  20030113  11:26  Bad   RM-3401 Accounting Dept      
+100004  20030113  11:27  Bad   RM-3408 Men's Restroom       
+100008  20030113  11:28  Good  RM-3403 Marketing Dept       
+100008  20030113  11:29  Bad   RM-3403 Marketing Dept       
+100006  20030113  11:30  Bad   RM-3404 Advertising Dept     
+100006  20030113  11:31  Bad   RM-3408 Men's Restroom       
+100006  20030113  11:32  Bad   RM-3407 Shipping Dept        
+100001  20030113  11:33  Bad   RM-3402 Sales Dept           
+100001  20030113  12:04  Good  RM-3404 Advertising Dept     
+100007  20030113  12:05  Bad   RM-3407 Shipping Dept        
+100004  20030113  12:06  Good  RM-3406 Showroom             
+100001  20030113  12:07  Bad   RM-3404 Advertising Dept     
+100001  20030113  12:08  Bad   RM-3401 Accounting Dept      
+100006  20030113  12:09  Good  RM-3402 Sales Dept           
+100001  20030113  12:10  Good  RM-3409 Women's Restroom     
+100007  20030113  12:11  Good  RM-3406 Showroom             
+100007  20030113  12:12  Good  RM-3409 Women's Restroom     
+100006  20030113  12:13  Good  RM-3401 Accounting Dept      
+100003  20030113  12:14  Bad   RM-3406 Showroom             
+100006  20030113  12:15  Good  RM-3403 Marketing Dept       
+100010  20030113  12:16  Bad   RM-3409 Women's Restroom     
+100009  20030113  12:17  Bad   RM-3403 Marketing Dept       
+100008  20030113  12:18  Bad   RM-3405 R&D Dept             
+100008  20030114  09:03  Bad   RM-3409 Women's Restroom     
+100007  20030114  09:04  Bad   RM-3405 R&D Dept             
+100007  20030114  09:05  Good  RM-3407 Shipping Dept        
+100004  20030114  09:06  Bad   RM-3406 Showroom             
+100008  20030114  09:07  Bad   RM-3408 Men's Restroom       
+100009  20030114  09:08  Good  RM-3407 Shipping Dept        
+100008  20030114  09:09  Good  RM-3401 Accounting Dept      
+100010  20030114  09:10  Good  RM-3403 Marketing Dept       
+100008  20030114  09:11  Bad   RM-3404 Advertising Dept     
+100004  20030114  09:12  Bad   RM-3406 Showroom             
+100004  20030114  09:13  Bad   RM-3403 Marketing Dept       
+100005  20030114  09:14  Bad   RM-3405 R&D Dept             
+100010  20030114  09:15  Good  RM-3404 Advertising Dept     
+100008  20030114  09:16  Bad   RM-3409 Women's Restroom     
+100002  20030114  10:31  Good  RM-3401 Accounting Dept      
+100004  20030114  10:32  Good  RM-3402 Sales Dept           
+100009  20030114  10:33  Good  RM-3407 Shipping Dept        
+100005  20030114  10:34  Good  RM-3405 R&D Dept             
+100001  20030114  10:35  Bad   RM-3402 Sales Dept           
+100003  20030114  10:36  Bad   RM-3406 Showroom             
+100008  20030114  10:37  Bad   RM-3405 R&D Dept             
+100007  20030114  10:38  Bad   RM-3402 Sales Dept           
+100002  20030114  10:39  Good  RM-3404 Advertising Dept     
+100007  20030114  10:40  Bad   RM-3403 Marketing Dept       
+100010  20030114  10:41  Bad   RM-3403 Marketing Dept       
+100005  20030114  10:42  Bad   RM-3406 Showroom             
+100001  20030114  10:43  Bad   RM-3408 Men's Restroom       
+100003  20030114  10:44  Bad   RM-3406 Showroom             
+100002  20030114  10:45  Bad   RM-3409 Women's Restroom     
+100006  20030114  10:46  Good  RM-3404 Advertising Dept     
+100008  20030114  10:47  Good  RM-3405 R&D Dept             
+100010  20030114  10:48  Bad   RM-3404 Advertising Dept     
+100008  20030114  10:49  Bad   RM-3403 Marketing Dept       
+100009  20030114  10:50  Bad   RM-3406 Showroom             
+100002  20030114  10:51  Bad   RM-3408 Men's Restroom       
+100003  20030114  10:52  Bad   RM-3409 Women's Restroom     
+100006  20030114  10:53  Bad   RM-3409 Women's Restroom     
+100010  20030114  11:07  Good  RM-3406 Showroom             
+100010  20030114  11:08  Bad   RM-3409 Women's Restroom     
+100008  20030114  11:09  Good  RM-3409 Women's Restroom     
+100006  20030115  09:05  Good  RM-3408 Men's Restroom       
+100005  20030115  09:06  Bad   RM-3404 Advertising Dept     
+100008  20030115  09:07  Good  RM-3402 Sales Dept           
+100005  20030115  09:08  Good  RM-3402 Sales Dept           
+100007  20030115  09:09  Good  RM-3408 Men's Restroom       
+100008  20030115  09:10  Bad   RM-3403 Marketing Dept       
+100004  20030115  09:11  Good  RM-3402 Sales Dept           
+100005  20030115  09:12  Good  RM-3409 Women's Restroom     
+100003  20030115  09:13  Good  RM-3402 Sales Dept           
+100002  20030115  09:14  Bad   RM-3403 Marketing Dept       
+100010  20030115  09:15  Good  RM-3407 Shipping Dept        
+100009  20030115  09:16  Bad   RM-3406 Showroom             
+100003  20030115  09:17  Good  RM-3406 Showroom             
+100003  20030115  09:18  Good  RM-3407 Shipping Dept        
+100001  20030115  09:19  Bad   RM-3401 Accounting Dept      
+100005  20030115  09:20  Bad   RM-3405 R&D Dept             
+100006  20030115  09:21  Good  RM-3408 Men's Restroom       
+100010  20030115  09:22  Good  RM-3405 R&D Dept             
+100007  20030115  09:23  Good  RM-3408 Men's Restroom       
+100006  20030115  09:24  Bad   RM-3406 Showroom             
+100005  20030115  09:25  Bad   RM-3409 Women's Restroom     
+100009  20030115  09:26  Bad   RM-3408 Men's Restroom       
+100004  20030115  09:27  Bad   RM-3407 Shipping Dept        
+100003  20030115  09:28  Good  RM-3406 Showroom             
+100004  20030115  09:29  Good  RM-3407 Shipping Dept        
+100008  20030115  09:30  Good  RM-3403 Marketing Dept       
+100007  20030115  10:11  Good  RM-3404 Advertising Dept     
+100008  20030115  10:12  Bad   RM-3402 Sales Dept           
+100004  20030115  10:13  Bad   RM-3408 Men's Restroom       
+100006  20030115  10:14  Bad   RM-3402 Sales Dept           
+100001  20030115  10:15  Good  RM-3401 Accounting Dept      
+100004  20030115  10:16  Good  RM-3404 Advertising Dept     
+100005  20030115  10:17  Bad   RM-3404 Advertising Dept     
+100004  20030115  10:18  Bad   RM-3407 Shipping Dept        
+100004  20030115  10:19  Bad   RM-3404 Advertising Dept     
+100007  20030115  10:20  Good  RM-3406 Showroom             
+100002  20030115  10:21  Bad   RM-3409 Women's Restroom     
+100009  20030115  10:22  Bad   RM-3408 Men's Restroom       
+100003  20030115  10:23  Good  RM-3401 Accounting Dept      
+100005  20030115  10:24  Good  RM-3402 Sales Dept           
+100007  20030115  10:25  Bad   RM-3405 R&D Dept             
+100003  20030115  10:26  Good  RM-3404 Advertising Dept     
+100007  20030115  10:27  Bad   RM-3402 Sales Dept           
+100001  20030115  10:28  Good  RM-3401 Accounting Dept      
+100005  20030115  11:36  Bad   RM-3408 Men's Restroom       
+100005  20030115  11:37  Bad   RM-3407 Shipping Dept        
+100010  20030115  11:38  Bad   RM-3407 Shipping Dept        
+100003  20030115  11:39  Bad   RM-3405 R&D Dept             
+100008  20030215  11:40  Good  RM-3405 R&D Dept             
+100006  20030215  11:41  Good  RM-3408 Men's Restroom       
+100007  20030215  11:42  Good  RM-3408 Men's Restroom       
+100003  20030215  11:43  Good  RM-3402 Sales Dept           
+100004  20030215  11:44  Bad   RM-3408 Men's Restroom       
+100004  20030215  11:45  Good  RM-3401 Accounting Dept      
+100007  20030215  11:46  Good  RM-3408 Men's Restroom       
+100008  20030216  09:07  Good  RM-3405 R&D Dept             
+100004  20030216  09:08  Bad   RM-3407 Shipping Dept        
+100007  20030216  09:09  Bad   RM-3403 Marketing Dept       
+100003  20030216  09:10  Good  RM-3404 Advertising Dept     
+100005  20030216  09:11  Bad   RM-3404 Advertising Dept     
+100002  20030216  09:12  Good  RM-3408 Men's Restroom       
+100008  20030216  09:13  Good  RM-3408 Men's Restroom       
+100010  20030216  09:14  Bad   RM-3405 R&D Dept             
+100002  20030216  09:15  Bad   RM-3406 Showroom             
+100010  20030216  09:16  Good  RM-3407 Shipping Dept        
+100001  20030216  09:17  Good  RM-3408 Men's Restroom       
+100008  20030216  09:18  Bad   RM-3409 Women's Restroom     
+100010  20030216  09:19  Bad   RM-3409 Women's Restroom     
+100001  20030216  09:20  Bad   RM-3407 Shipping Dept        
+100008  20030216  09:21  Bad   RM-3402 Sales Dept           
+100007  20030216  09:22  Good  RM-3403 Marketing Dept       
+100008  20030216  10:03  Bad   RM-3402 Sales Dept           
+100002  20030216  10:04  Good  RM-3405 R&D Dept             
+100001  20030216  10:05  Bad   RM-3404 Advertising Dept     
+100001  20030216  10:06  Good  RM-3407 Shipping Dept        
+100007  20030216  10:07  Good  RM-3407 Shipping Dept        
+100008  20030216  10:08  Bad   RM-3403 Marketing Dept       
+100010  20030216  10:09  Good  RM-3401 Accounting Dept      
+100001  20030216  10:10  Good  RM-3404 Advertising Dept     
+100005  20030216  10:11  Good  RM-3408 Men's Restroom       
+100001  20030216  10:12  Bad   RM-3405 R&D Dept             
+100001  20030216  10:13  Bad   RM-3408 Men's Restroom       
+100008  20030216  10:14  Bad   RM-3405 R&D Dept             
+100006  20030216  10:15  Good  RM-3401 Accounting Dept      
+100001  20030216  10:16  Good  RM-3404 Advertising Dept     
+100010  20030216  10:17  Good  RM-3404 Advertising Dept     
+100003  20030216  11:28  Good  RM-3408 Men's Restroom       
+100009  20030216  11:29  Good  RM-3403 Marketing Dept       
+100007  20030216  11:30  Bad   RM-3406 Showroom             
+100009  20030216  11:31  Good  RM-3402 Sales Dept           
+100007  20030216  11:32  Bad   RM-3404 Advertising Dept     
+100006  20030216  11:33  Good  RM-3403 Marketing Dept       
+100005  20030216  11:34  Bad   RM-3403 Marketing Dept       
+100005  20030216  11:35  Bad   RM-3408 Men's Restroom       
+100001  20030216  11:36  Good  RM-3408 Men's Restroom       
+100008  20030216  11:37  Bad   RM-3407 Shipping Dept        
+100007  20030216  11:38  Good  RM-3407 Shipping Dept        
+100007  20030216  11:39  Bad   RM-3409 Women's Restroom     
+100006  20030216  11:40  Good  RM-3405 R&D Dept             
+100001  20030216  11:41  Good  RM-3406 Showroom             
+100009  20030216  11:42  Bad   RM-3406 Showroom             
+100006  20030216  11:43  Bad   RM-3404 Advertising Dept     
+100006  20030216  11:44  Bad   RM-3407 Shipping Dept        
+100008  20030216  11:45  Bad   RM-3406 Showroom             
+100002  20030216  12:11  Good  RM-3406 Showroom             
+100009  20030216  12:12  Good  RM-3409 Women's Restroom     
+100004  20030216  12:13  Bad   RM-3406 Showroom             
+100005  20030216  12:14  Good  RM-3401 Accounting Dept      
+100004  20030216  12:15  Bad   RM-3403 Marketing Dept       
+100009  20030216  12:16  Good  RM-3408 Men's Restroom       
+100010  20030216  12:17  Bad   RM-3401 Accounting Dept      
+100008  20030216  12:18  Good  RM-3402 Sales Dept           
+100008  20030216  12:19  Bad   RM-3403 Marketing Dept       
+100001  20030216  12:20  Good  RM-3402 Sales Dept           
+100003  20030216  12:21  Good  RM-3407 Shipping Dept        
+100004  20030216  12:22  Bad   RM-3402 Sales Dept           
+100003  20030216  12:23  Good  RM-3404 Advertising Dept     
+100007  20030216  12:24  Bad   RM-3405 R&D Dept             
+100001  20030216  12:25  Bad   RM-3408 Men's Restroom       
+100007  20030216  12:26  Bad   RM-3406 Showroom             
+100008  20030216  12:27  Bad   RM-3401 Accounting Dept      
+100006  20030216  12:28  Good  RM-3408 Men's Restroom       
+100003  20030216  12:29  Bad   RM-3404 Advertising Dept     
+100006  20030216  12:30  Good  RM-3407 Shipping Dept        
+100006  20030216  12:31  Bad   RM-3404 Advertising Dept     
+100007  20030216  12:32  Bad   RM-3409 Women's Restroom     
+100010  20030216  12:33  Good  RM-3406 Showroom             
+100007  20030217  09:02  Bad   RM-3408 Men's Restroom       
+100008  20030217  09:03  Bad   RM-3408 Men's Restroom       
+100010  20030217  09:04  Good  RM-3404 Advertising Dept     
+100004  20030217  09:05  Bad   RM-3403 Marketing Dept       
+100002  20030217  09:06  Bad   RM-3403 Marketing Dept       
+100002  20030217  09:07  Bad   RM-3406 Showroom             
+100004  20030217  09:08  Bad   RM-3405 R&D Dept             
+100009  20030217  09:09  Bad   RM-3406 Showroom             
+100005  20030217  09:10  Good  RM-3407 Shipping Dept        
+100005  20030217  09:11  Good  RM-3404 Advertising Dept     
+100010  20030217  09:12  Good  RM-3404 Advertising Dept     
+100008  20030217  09:13  Bad   RM-3404 Advertising Dept     
+100002  20030217  09:14  Bad   RM-3403 Marketing Dept       
+100005  20030217  09:15  Good  RM-3402 Sales Dept           
+100005  20030217  09:16  Good  RM-3405 R&D Dept             
+100009  20030217  09:17  Bad   RM-3407 Shipping Dept        
+100001  20030217  09:18  Bad   RM-3404 Advertising Dept     
+100005  20030217  10:21  Bad   RM-3403 Marketing Dept       
+100004  20030217  10:22  Good  RM-3406 Showroom             
+100008  20030217  10:23  Bad   RM-3403 Marketing Dept       
+100009  20030217  10:24  Good  RM-3406 Showroom             
+100008  20030217  10:25  Bad   RM-3407 Shipping Dept        
+100003  20030217  10:26  Good  RM-3401 Accounting Dept      
+100007  20030217  10:27  Bad   RM-3403 Marketing Dept       
+100008  20030217  10:28  Bad   RM-3408 Men's Restroom       
+100007  20030217  10:29  Good  RM-3407 Shipping Dept        
+100003  20030217  10:30  Good  RM-3404 Advertising Dept     
+100002  20030217  10:31  Good  RM-3403 Marketing Dept       
+100005  20030217  10:32  Bad   RM-3402 Sales Dept           
+100006  20030217  10:33  Bad   RM-3402 Sales Dept           
+100008  20030217  10:34  Good  RM-3403 Marketing Dept       
+100009  20030217  10:35  Good  RM-3405 R&D Dept             
+100004  20030217  10:36  Bad   RM-3401 Accounting Dept      
+100006  20030217  11:22  Bad   RM-3406 Showroom             
+100004  20030217  11:23  Bad   RM-3408 Men's Restroom       
+100002  20030217  11:24  Bad   RM-3409 Women's Restroom     
+100002  20030217  11:25  Bad   RM-3403 Marketing Dept       
+100010  20030217  11:26  Bad   RM-3408 Men's Restroom       
+100009  20030217  11:27  Good  RM-3403 Marketing Dept       
+100008  20030217  11:28  Good  RM-3403 Marketing Dept       
+100001  20030217  11:29  Bad   RM-3406 Showroom             
+100003  20030217  11:30  Bad   RM-3404 Advertising Dept     
+100002  20030217  11:31  Good  RM-3403 Marketing Dept       
+100008  20030217  11:32  Bad   RM-3402 Sales Dept           
+100003  20030217  11:33  Bad   RM-3409 Women's Restroom     
+100007  20030217  11:34  Good  RM-3405 R&D Dept             
+100010  20030217  11:35  Good  RM-3407 Shipping Dept        
+100002  20030217  11:36  Bad   RM-3408 Men's Restroom       
+100010  20030217  11:37  Bad   RM-3404 Advertising Dept     
+100001  20030217  11:38  Good  RM-3402 Sales Dept           
+100002  20030217  11:39  Good  RM-3403 Marketing Dept       
+100010  20030220  09:11  Bad   RM-3406 Showroom             
+100004  20030220  09:12  Good  RM-3404 Advertising Dept     
+100004  20030220  09:13  Good  RM-3406 Showroom             
+100010  20030220  09:14  Good  RM-3406 Showroom             
+100006  20030220  09:15  Good  RM-3406 Showroom             
+100002  20030220  09:16  Good  RM-3409 Women's Restroom     
+100002  20030220  09:17  Bad   RM-3403 Marketing Dept       
+100008  20030220  09:18  Good  RM-3405 R&D Dept             
+100010  20030220  09:19  Good  RM-3405 R&D Dept             
+100008  20030220  09:20  Good  RM-3405 R&D Dept             
+100002  20030220  09:21  Bad   RM-3407 Shipping Dept        
+100009  20030220  09:22  Good  RM-3401 Accounting Dept      
+100006  20030220  09:23  Good  RM-3406 Showroom             
+100005  20030220  09:24  Bad   RM-3403 Marketing Dept       
+100006  20030220  09:25  Bad   RM-3406 Showroom             
+100008  20030220  09:26  Good  RM-3404 Advertising Dept     
+100004  20030220  10:29  Good  RM-3405 R&D Dept             
+100004  20030220  10:30  Bad   RM-3403 Marketing Dept       
+100002  20030220  10:31  Bad   RM-3402 Sales Dept           
+100006  20030220  10:32  Good  RM-3406 Showroom             
+100003  20030220  10:33  Good  RM-3403 Marketing Dept       
+100009  20030220  10:34  Bad   RM-3401 Accounting Dept      
+100008  20030220  10:35  Good  RM-3403 Marketing Dept       
+100010  20030220  10:36  Good  RM-3408 Men's Restroom       
+100007  20030220  10:37  Bad   RM-3409 Women's Restroom     
+100002  20030220  10:38  Bad   RM-3403 Marketing Dept       
+100004  20030220  10:39  Good  RM-3402 Sales Dept           
+100007  20030220  10:40  Bad   RM-3403 Marketing Dept       
+100002  20030220  10:41  Bad   RM-3403 Marketing Dept       
+100003  20030220  10:42  Good  RM-3403 Marketing Dept       
+100004  20030220  10:43  Good  RM-3402 Sales Dept           
+100004  20030220  10:44  Bad   RM-3408 Men's Restroom       
+100005  20030220  11:39  Bad   RM-3401 Accounting Dept      
+100008  20030220  11:40  Bad   RM-3404 Advertising Dept     
+100001  20030220  11:41  Bad   RM-3402 Sales Dept           
+100004  20030220  11:42  Bad   RM-3406 Showroom             
+100009  20030220  11:43  Good  RM-3401 Accounting Dept      
+100008  20030220  11:44  Good  RM-3409 Women's Restroom     
+100005  20030220  11:45  Bad   RM-3408 Men's Restroom       
+100003  20030220  11:46  Bad   RM-3403 Marketing Dept       
+100005  20030220  11:47  Bad   RM-3408 Men's Restroom       
+100010  20030220  11:48  Bad   RM-3407 Shipping Dept        
+100001  20030220  11:49  Bad   RM-3405 R&D Dept             
+100010  20030220  11:50  Good  RM-3405 R&D Dept             
+100007  20030220  11:51  Bad   RM-3402 Sales Dept           
+100009  20030220  11:52  Bad   RM-3406 Showroom             
+100001  20030220  11:53  Bad   RM-3409 Women's Restroom     
+100001  20030220  11:54  Good  RM-3403 Marketing Dept       
+100010  20030220  12:02  Bad   RM-3402 Sales Dept           
+100002  20030220  12:03  Good  RM-3407 Shipping Dept        
+100003  20030220  12:04  Good  RM-3407 Shipping Dept        
+100010  20030220  12:05  Bad   RM-3409 Women's Restroom     
+100001  20030220  12:06  Bad   RM-3406 Showroom             
+100002  20030220  12:07  Bad   RM-3409 Women's Restroom     
+100003  20030220  12:08  Good  RM-3403 Marketing Dept       
+100005  20030220  12:09  Bad   RM-3401 Accounting Dept      
+100005  20030221  09:04  Bad   RM-3406 Showroom             
+100007  20030221  09:05  Good  RM-3404 Advertising Dept     
+100007  20030221  09:06  Good  RM-3409 Women's Restroom     
+100002  20030221  09:07  Bad   RM-3401 Accounting Dept      
+100001  20030221  09:08  Bad   RM-3404 Advertising Dept     
+100009  20030221  09:09  Bad   RM-3405 R&D Dept             
+100005  20030221  09:10  Good  RM-3408 Men's Restroom       
+100009  20030221  09:11  Bad   RM-3405 R&D Dept             
+100010  20030221  09:12  Good  RM-3409 Women's Restroom     
+100007  20030221  09:13  Good  RM-3406 Showroom             
+100004  20030221  09:14  Good  RM-3408 Men's Restroom       
+100010  20030221  09:15  Bad   RM-3402 Sales Dept           
+100008  20030221  09:16  Bad   RM-3405 R&D Dept             
+100007  20030221  09:17  Bad   RM-3401 Accounting Dept      
+100002  20030221  09:18  Good  RM-3402 Sales Dept           
+100001  20030221  09:19  Bad   RM-3406 Showroom             
+100003  20030221  09:20  Bad   RM-3403 Marketing Dept       
+100006  20030221  09:21  Bad   RM-3405 R&D Dept             
+100003  20030221  09:22  Good  RM-3406 Showroom             
+100001  20030221  09:23  Good  RM-3407 Shipping Dept        
+100007  20030221  09:24  Bad   RM-3407 Shipping Dept        
+100010  20030221  09:25  Good  RM-3402 Sales Dept           
+100009  20030221  09:26  Bad   RM-3409 Women's Restroom     
+100009  20030221  10:41  Good  RM-3409 Women's Restroom     
+100003  20030221  10:42  Good  RM-3405 R&D Dept             
+100005  20030221  10:43  Good  RM-3405 R&D Dept             
+100008  20030221  10:44  Bad   RM-3409 Women's Restroom     
+100009  20030221  10:45  Bad   RM-3402 Sales Dept           
+100002  20030221  10:46  Bad   RM-3404 Advertising Dept     
+100007  20030221  10:47  Bad   RM-3403 Marketing Dept       
+100009  20030221  10:48  Bad   RM-3401 Accounting Dept      
+100001  20030221  10:49  Bad   RM-3403 Marketing Dept       
+100007  20030221  10:50  Bad   RM-3409 Women's Restroom     
+100010  20030221  10:51  Bad   RM-3407 Shipping Dept        
+100004  20030221  10:52  Bad   RM-3409 Women's Restroom     
+100003  20030221  10:53  Good  RM-3408 Men's Restroom       
+100005  20030221  10:54  Good  RM-3404 Advertising Dept     
+100010  20030221  10:55  Bad   RM-3408 Men's Restroom       
+100009  20030221  10:56  Bad   RM-3402 Sales Dept           
+100003  20030221  11:14  Bad   RM-3402 Sales Dept           
+100004  20030221  11:15  Bad   RM-3401 Accounting Dept      
+100004  20030221  11:16  Bad   RM-3403 Marketing Dept       
+100005  20030221  11:17  Good  RM-3409 Women's Restroom     
+100002  20030221  11:18  Good  RM-3401 Accounting Dept      
+100007  20030221  11:19  Bad   RM-3401 Accounting Dept      
+100005  20030221  11:20  Bad   RM-3401 Accounting Dept      
+100003  20030221  11:21  Good  RM-3402 Sales Dept           
+100003  20030221  11:22  Bad   RM-3403 Marketing Dept       
+100002  20030221  11:23  Bad   RM-3404 Advertising Dept     
+100009  20030221  11:24  Good  RM-3403 Marketing Dept       
+100004  20030221  11:25  Good  RM-3404 Advertising Dept     
+100004  20030221  11:26  Good  RM-3409 Women's Restroom     
+100001  20030221  11:27  Bad   RM-3407 Shipping Dept        
+100009  20030221  11:28  Bad   RM-3401 Accounting Dept      
+100002  20030221  11:29  Bad   RM-3404 Advertising Dept     
+100005  20030221  11:30  Good  RM-3404 Advertising Dept     
+100004  20030222  09:00  Good  RM-3403 Marketing Dept       
+100006  20030222  09:01  Bad   RM-3409 Women's Restroom     
+100007  20030222  09:02  Good  RM-3401 Accounting Dept      
+100006  20030222  09:03  Bad   RM-3406 Showroom             
+100004  20030222  09:04  Good  RM-3404 Advertising Dept     
+100005  20030222  09:05  Bad   RM-3402 Sales Dept           
+100008  20030222  09:06  Good  RM-3401 Accounting Dept      
+100009  20030222  09:07  Bad   RM-3405 R&D Dept             
+100008  20030222  09:08  Good  RM-3402 Sales Dept           
+100006  20030222  09:09  Good  RM-3402 Sales Dept           
+100007  20030222  09:10  Bad   RM-3402 Sales Dept           
+100003  20030222  09:11  Bad   RM-3404 Advertising Dept     
+100003  20030222  09:12  Bad   RM-3401 Accounting Dept      
+100004  20030222  10:02  Bad   RM-3405 R&D Dept             
+100004  20030222  10:03  Good  RM-3403 Marketing Dept       
+100010  20030222  10:04  Bad   RM-3407 Shipping Dept        
+100008  20030222  10:05  Bad   RM-3407 Shipping Dept        
+100008  20030222  10:06  Bad   RM-3407 Shipping Dept        
+100002  20030222  10:07  Bad   RM-3405 R&D Dept             
+100009  20030222  10:08  Bad   RM-3407 Shipping Dept        
+100006  20030222  10:09  Bad   RM-3402 Sales Dept           
+100005  20030222  10:10  Bad   RM-3408 Men's Restroom       
+100005  20030222  10:11  Bad   RM-3406 Showroom             
+100002  20030222  10:12  Good  RM-3402 Sales Dept           
+100009  20030222  10:13  Good  RM-3409 Women's Restroom     
+100004  20030222  10:14  Bad   RM-3401 Accounting Dept      
+100004  20030222  10:15  Good  RM-3403 Marketing Dept       
+100002  20030222  10:16  Bad   RM-3403 Marketing Dept       
+100006  20030222  10:17  Good  RM-3408 Men's Restroom       
+100004  20030222  10:18  Bad   RM-3407 Shipping Dept        
+100002  20030222  10:19  Bad   RM-3402 Sales Dept           
+100007  20030222  10:20  Good  RM-3401 Accounting Dept      
+100005  20030222  10:21  Good  RM-3403 Marketing Dept       
+100006  20030222  10:22  Good  RM-3405 R&D Dept             
+100005  20030222  10:23  Bad   RM-3405 R&D Dept             
+100002  20030222  10:24  Good  RM-3402 Sales Dept           
+100006  20030222  10:25  Bad   RM-3405 R&D Dept             
+100010  20030222  10:26  Bad   RM-3402 Sales Dept           
+100010  20030222  10:27  Bad   RM-3403 Marketing Dept       
+100010  20030222  10:28  Bad   RM-3403 Marketing Dept       
+100005  20030222  10:29  Good  RM-3409 Women's Restroom     
+100001  20030222  10:30  Good  RM-3405 R&D Dept             
+100001  20030222  10:31  Good  RM-3402 Sales Dept           
+100004  20030222  10:32  Bad   RM-3405 R&D Dept             
+100005  20030222  10:33  Bad   RM-3401 Accounting Dept      
+100008  20030222  11:11  Bad   RM-3409 Women's Restroom     
+100002  20030222  11:12  Good  RM-3408 Men's Restroom       
+100005  20030222  11:13  Good  RM-3405 R&D Dept             
+100010  20030222  11:14  Good  RM-3406 Showroom             
+100006  20030222  11:15  Bad   RM-3403 Marketing Dept       
+100007  20030222  11:16  Bad   RM-3408 Men's Restroom       
+100006  20030222  11:17  Bad   RM-3408 Men's Restroom       
+100008  20030222  11:18  Bad   RM-3401 Accounting Dept      
+100009  20030222  11:19  Bad   RM-3401 Accounting Dept      
+100001  20030222  11:20  Bad   RM-3408 Men's Restroom       
+100009  20030222  11:21  Good  RM-3404 Advertising Dept     
+100008  20030222  11:22  Good  RM-3402 Sales Dept           
+100009  20030222  11:23  Good  RM-3407 Shipping Dept        
+100004  20030222  11:24  Good  RM-3402 Sales Dept           
+100004  20030222  11:25  Bad   RM-3403 Marketing Dept       
+100004  20030222  11:26  Good  RM-3401 Accounting Dept      
+100009  20030223  09:05  Good  RM-3408 Men's Restroom       
+100004  20030223  09:06  Bad   RM-3406 Showroom             
+100006  20030223  09:07  Bad   RM-3407 Shipping Dept        
+100008  20030223  09:08  Bad   RM-3408 Men's Restroom       
+100008  20030223  09:09  Good  RM-3405 R&D Dept             
+100003  20030223  09:10  Bad   RM-3407 Shipping Dept        
+100005  20030223  09:11  Good  RM-3406 Showroom             
+100004  20030223  09:12  Bad   RM-3405 R&D Dept             
+100008  20030223  09:13  Good  RM-3401 Accounting Dept      
+100003  20030223  09:14  Bad   RM-3403 Marketing Dept       
+100004  20030223  09:15  Good  RM-3401 Accounting Dept      
+100004  20030223  09:16  Good  RM-3402 Sales Dept           
+100007  20030223  09:17  Bad   RM-3408 Men's Restroom       
+100008  20030223  09:18  Good  RM-3408 Men's Restroom       
+100001  20030223  09:19  Bad   RM-3406 Showroom             
+100005  20030223  09:20  Good  RM-3404 Advertising Dept     
+100006  20030223  09:21  Good  RM-3403 Marketing Dept       
+100006  20030223  09:22  Good  RM-3407 Shipping Dept        
+100003  20030223  10:31  Bad   RM-3405 R&D Dept             
+100006  20030223  10:32  Bad   RM-3402 Sales Dept           
+100003  20030223  10:33  Bad   RM-3405 R&D Dept             
+100006  20030223  10:34  Good  RM-3405 R&D Dept             
+100005  20030223  10:35  Bad   RM-3409 Women's Restroom     
+100003  20030223  10:36  Good  RM-3405 R&D Dept             
+100008  20030223  10:37  Bad   RM-3407 Shipping Dept        
+100002  20030223  10:38  Bad   RM-3403 Marketing Dept       
+100007  20030223  10:39  Good  RM-3407 Shipping Dept        
+100006  20030223  10:40  Good  RM-3403 Marketing Dept       
+100002  20030223  10:41  Bad   RM-3408 Men's Restroom       
+100009  20030223  10:42  Good  RM-3404 Advertising Dept     
+100002  20030223  10:43  Bad   RM-3403 Marketing Dept       
+100002  20030223  10:44  Good  RM-3408 Men's Restroom       
+100006  20030223  10:45  Bad   RM-3404 Advertising Dept     
+100009  20030223  10:46  Good  RM-3401 Accounting Dept      
+100007  20030223  10:47  Good  RM-3402 Sales Dept           
+100004  20030223  10:48  Bad   RM-3403 Marketing Dept       
+100010  20030223  10:49  Bad   RM-3401 Accounting Dept      
+100002  20030223  10:50  Good  RM-3404 Advertising Dept     
+100004  20030223  10:51  Good  RM-3404 Advertising Dept     
+100004  20030223  10:52  Good  RM-3401 Accounting Dept      
+100009  20030223  10:53  Bad   RM-3404 Advertising Dept     
+100001  20030223  10:54  Good  RM-3402 Sales Dept           
+100003  20030323  10:55  Good  RM-3405 R&D Dept             
+100009  20030323  11:07  Good  RM-3405 R&D Dept             
+100002  20030323  11:08  Good  RM-3402 Sales Dept           
+100004  20030323  11:09  Bad   RM-3407 Shipping Dept        
+100003  20030323  11:10  Bad   RM-3409 Women's Restroom     
+100001  20030323  11:11  Bad   RM-3402 Sales Dept           
+100005  20030323  11:12  Bad   RM-3403 Marketing Dept       
+100002  20030323  11:13  Bad   RM-3405 R&D Dept             
+100003  20030323  11:14  Good  RM-3404 Advertising Dept     
+100007  20030323  11:15  Good  RM-3407 Shipping Dept        
+100009  20030323  11:16  Bad   RM-3407 Shipping Dept        
+100004  20030323  11:17  Good  RM-3401 Accounting Dept      
+100009  20030323  11:18  Good  RM-3407 Shipping Dept        
+100001  20030323  11:19  Bad   RM-3401 Accounting Dept      
+100008  20030323  11:20  Good  RM-3406 Showroom             
+100001  20030323  11:21  Bad   RM-3409 Women's Restroom     
+100004  20030323  12:22  Bad   RM-3405 R&D Dept             
+100003  20030323  12:23  Bad   RM-3404 Advertising Dept     
+100002  20030324  09:05  Good  RM-3405 R&D Dept             
+100005  20030324  09:06  Good  RM-3401 Accounting Dept      
+100006  20030324  09:07  Good  RM-3408 Men's Restroom       
+100009  20030324  09:08  Good  RM-3407 Shipping Dept        
+100001  20030324  09:09  Good  RM-3405 R&D Dept             
+100008  20030324  09:10  Good  RM-3404 Advertising Dept     
+100009  20030324  09:11  Bad   RM-3401 Accounting Dept      
+100003  20030324  09:12  Good  RM-3401 Accounting Dept      
+100003  20030324  09:13  Bad   RM-3403 Marketing Dept       
+100009  20030324  09:14  Bad   RM-3405 R&D Dept             
+100005  20030324  09:15  Bad   RM-3401 Accounting Dept      
+100001  20030324  09:16  Good  RM-3407 Shipping Dept        
+100003  20030324  09:17  Bad   RM-3401 Accounting Dept      
+100009  20030324  10:15  Bad   RM-3408 Men's Restroom       
+100005  20030324  10:16  Bad   RM-3407 Shipping Dept        
+100008  20030324  10:17  Bad   RM-3409 Women's Restroom     
+100007  20030324  10:18  Good  RM-3402 Sales Dept           
+100007  20030324  10:19  Good  RM-3402 Sales Dept           
+100001  20030324  10:20  Good  RM-3401 Accounting Dept      
+100003  20030324  10:21  Good  RM-3404 Advertising Dept     
+100006  20030324  10:22  Bad   RM-3405 R&D Dept             
+100002  20030324  10:23  Good  RM-3406 Showroom             
+100003  20030324  10:24  Bad   RM-3405 R&D Dept             
+100003  20030324  10:25  Good  RM-3406 Showroom             
+100010  20030324  10:26  Bad   RM-3407 Shipping Dept        
+100001  20030324  10:27  Good  RM-3404 Advertising Dept     
+100001  20030324  10:28  Good  RM-3401 Accounting Dept      
+100009  20030324  10:29  Bad   RM-3407 Shipping Dept        
+100004  20030324  10:30  Bad   RM-3402 Sales Dept           
+100010  20030324  11:34  Good  RM-3401 Accounting Dept      
+100004  20030324  11:35  Good  RM-3404 Advertising Dept     
+100001  20030324  11:36  Bad   RM-3403 Marketing Dept       
+100010  20030324  11:37  Bad   RM-3401 Accounting Dept      
+100008  20030324  11:38  Good  RM-3406 Showroom             
+100005  20030327  09:01  Good  RM-3401 Accounting Dept      
+100006  20030327  09:02  Good  RM-3407 Shipping Dept        
+100003  20030327  09:03  Bad   RM-3409 Women's Restroom     
+100003  20030327  09:04  Bad   RM-3401 Accounting Dept      
+100004  20030327  09:05  Bad   RM-3402 Sales Dept           
+100007  20030327  09:06  Good  RM-3401 Accounting Dept      
+100006  20030327  09:07  Bad   RM-3404 Advertising Dept     
+100008  20030327  09:08  Bad   RM-3408 Men's Restroom       
+100008  20030327  09:09  Bad   RM-3409 Women's Restroom     
+100002  20030327  09:10  Good  RM-3405 R&D Dept             
+100010  20030327  09:11  Good  RM-3401 Accounting Dept      
+100004  20030327  09:12  Good  RM-3403 Marketing Dept       
+100003  20030327  09:13  Bad   RM-3406 Showroom             
+100003  20030327  09:14  Good  RM-3407 Shipping Dept        
+100001  20030327  10:15  Bad   RM-3409 Women's Restroom     
+100007  20030327  10:16  Good  RM-3406 Showroom             
+100005  20030327  10:17  Bad   RM-3404 Advertising Dept     
+100005  20030327  10:18  Bad   RM-3405 R&D Dept             
+100006  20030327  10:19  Bad   RM-3402 Sales Dept           
+100001  20030327  10:20  Bad   RM-3407 Shipping Dept        
+100006  20030327  10:21  Bad   RM-3408 Men's Restroom       
+100001  20030327  10:22  Good  RM-3409 Women's Restroom     
+100010  20030327  10:23  Bad   RM-3409 Women's Restroom     
+100009  20030327  10:24  Bad   RM-3408 Men's Restroom       
+100009  20030327  10:25  Good  RM-3401 Accounting Dept      
+100006  20030327  10:26  Bad   RM-3401 Accounting Dept      
+100003  20030327  10:27  Bad   RM-3407 Shipping Dept        
+100008  20030327  11:21  Good  RM-3408 Men's Restroom       
+100004  20030327  11:22  Bad   RM-3401 Accounting Dept      
+100009  20030327  11:23  Good  RM-3402 Sales Dept           
+100003  20030327  11:24  Bad   RM-3404 Advertising Dept     
+100008  20030327  11:25  Bad   RM-3407 Shipping Dept        
+100001  20030327  11:26  Good  RM-3409 Women's Restroom     
+100009  20030327  11:27  Good  RM-3409 Women's Restroom     
+100006  20030327  11:28  Good  RM-3409 Women's Restroom     
+100001  20030327  11:29  Good  RM-3406 Showroom             
+100004  20030327  11:30  Bad   RM-3405 R&D Dept             
+100005  20030327  11:31  Bad   RM-3403 Marketing Dept       
+100003  20030327  11:32  Bad   RM-3408 Men's Restroom       
+100009  20030327  11:33  Bad   RM-3401 Accounting Dept      
+100001  20030327  11:34  Bad   RM-3402 Sales Dept           
+100004  20030327  11:35  Bad   RM-3403 Marketing Dept       
+100005  20030327  11:36  Good  RM-3403 Marketing Dept       
+100002  20030327  11:37  Bad   RM-3404 Advertising Dept     
+100007  20030327  11:38  Good  RM-3402 Sales Dept           
+100010  20030327  11:39  Bad   RM-3408 Men's Restroom       
+100006  20030327  11:40  Bad   RM-3406 Showroom             
+100008  20030327  11:41  Bad   RM-3409 Women's Restroom     
+100010  20030328  09:26  Good  RM-3402 Sales Dept           
+100003  20030328  09:27  Bad   RM-3402 Sales Dept           
+100008  20030328  09:28  Good  RM-3406 Showroom             
+100006  20030328  09:29  Good  RM-3406 Showroom             
+100006  20030328  09:30  Bad   RM-3407 Shipping Dept        
+100001  20030328  09:31  Good  RM-3406 Showroom             
+100004  20030328  09:32  Bad   RM-3409 Women's Restroom     
+100005  20030328  09:33  Good  RM-3409 Women's Restroom     
+100009  20030328  09:34  Good  RM-3401 Accounting Dept      
+100006  20030328  09:35  Bad   RM-3408 Men's Restroom       
+100007  20030328  09:36  Good  RM-3409 Women's Restroom     
+100005  20030328  09:37  Good  RM-3405 R&D Dept             
+100007  20030328  09:38  Good  RM-3404 Advertising Dept     
+100002  20030328  09:39  Good  RM-3406 Showroom             
+100004  20030328  09:40  Good  RM-3404 Advertising Dept     
+100002  20030328  09:41  Bad   RM-3409 Women's Restroom     
+100001  20030328  09:42  Bad   RM-3401 Accounting Dept      
+100003  20030328  10:31  Bad   RM-3406 Showroom             
+100003  20030328  10:32  Bad   RM-3409 Women's Restroom     
+100006  20030328  10:33  Bad   RM-3408 Men's Restroom       
+100009  20030328  10:34  Good  RM-3408 Men's Restroom       
+100001  20030328  10:35  Good  RM-3406 Showroom             
+100001  20030328  10:36  Bad   RM-3401 Accounting Dept      
+100002  20030328  10:37  Good  RM-3408 Men's Restroom       
+100007  20030328  10:38  Bad   RM-3407 Shipping Dept        
+100002  20030328  10:39  Bad   RM-3404 Advertising Dept     
+100005  20030328  10:40  Bad   RM-3402 Sales Dept           
+100009  20030328  10:41  Good  RM-3403 Marketing Dept       
+100003  20030328  10:42  Bad   RM-3405 R&D Dept             
+100010  20030328  10:43  Bad   RM-3402 Sales Dept           
+100002  20030328  10:44  Bad   RM-3403 Marketing Dept       
+100009  20030328  11:41  Good  RM-3408 Men's Restroom       
+100006  20030328  11:42  Bad   RM-3403 Marketing Dept       
+100005  20030328  11:43  Bad   RM-3409 Women's Restroom     
+100001  20030328  11:44  Good  RM-3406 Showroom             
+100003  20030328  11:45  Good  RM-3401 Accounting Dept      
+100010  20030328  11:46  Good  RM-3403 Marketing Dept       
+100006  20030328  11:47  Bad   RM-3404 Advertising Dept     
+100009  20030328  11:48  Bad   RM-3403 Marketing Dept       
+100001  20030328  11:49  Good  RM-3407 Shipping Dept        
+100005  20030328  11:50  Bad   RM-3402 Sales Dept           
+100005  20030328  11:51  Good  RM-3409 Women's Restroom     
+100001  20030328  11:52  Good  RM-3405 R&D Dept             
+100002  20030328  11:53  Good  RM-3406 Showroom             
+100002  20030328  11:54  Good  RM-3406 Showroom             
+100004  20030329  09:00  Good  RM-3408 Men's Restroom       
+100002  20030329  09:01  Good  RM-3408 Men's Restroom       
+100002  20030329  09:02  Good  RM-3405 R&D Dept             
+100003  20030329  09:03  Good  RM-3402 Sales Dept           
+100003  20030329  09:04  Bad   RM-3408 Men's Restroom       
+100003  20030329  09:05  Good  RM-3401 Accounting Dept      
+100003  20030329  09:06  Good  RM-3407 Shipping Dept        
+100002  20030329  09:07  Bad   RM-3407 Shipping Dept        
+100004  20030329  09:08  Good  RM-3407 Shipping Dept        
+100006  20030329  09:09  Good  RM-3404 Advertising Dept     
+100002  20030329  09:10  Good  RM-3407 Shipping Dept        
+100003  20030329  09:11  Good  RM-3403 Marketing Dept       
+100001  20030329  09:12  Good  RM-3401 Accounting Dept      
+100001  20030329  09:13  Good  RM-3406 Showroom             
+100002  20030329  09:14  Good  RM-3404 Advertising Dept     
+100001  20030329  09:15  Bad   RM-3405 R&D Dept             
+100004  20030329  09:16  Good  RM-3404 Advertising Dept     
+100003  20030329  10:42  Good  RM-3409 Women's Restroom     
+100005  20030329  10:43  Bad   RM-3407 Shipping Dept        
+100003  20030329  10:44  Bad   RM-3402 Sales Dept           
+100009  20030329  10:45  Good  RM-3402 Sales Dept           
+100007  20030329  10:46  Bad   RM-3409 Women's Restroom     
+100009  20030329  10:47  Good  RM-3405 R&D Dept             
+100003  20030329  10:48  Bad   RM-3402 Sales Dept           
+100004  20030329  10:49  Bad   RM-3401 Accounting Dept      
+100005  20030329  10:50  Bad   RM-3401 Accounting Dept      
+100003  20030329  10:51  Bad   RM-3409 Women's Restroom     
+100008  20030329  10:52  Good  RM-3409 Women's Restroom     
+100001  20030329  10:53  Good  RM-3409 Women's Restroom     
+100009  20030329  10:54  Good  RM-3405 R&D Dept             
+100010  20030329  10:55  Bad   RM-3409 Women's Restroom     
+100002  20030329  10:56  Good  RM-3401 Accounting Dept      
+100005  20030329  10:57  Bad   RM-3402 Sales Dept           
+100003  20030329  10:58  Bad   RM-3404 Advertising Dept     
