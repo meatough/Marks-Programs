@@ -1,0 +1,12 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Fraction\Fraction\bin\Debug\Fraction.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Fraction\Fraction\bin\Debug\Fraction.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Fraction\Fraction\bin\Debug\Fraction.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Fraction\Fraction\obj\Debug\Fraction.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Fraction\Fraction\obj\Debug\Fraction.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Fraction\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Fraction\Fraction\bin\Debug\Fraction.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Fraction\Fraction\obj\Debug\Fraction.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Fraction\Fraction\obj\Debug\Fraction.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Fraction\Fraction\bin\Debug\Fraction.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Fraction\Fraction\bin\Debug\Fraction.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Fraction\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache

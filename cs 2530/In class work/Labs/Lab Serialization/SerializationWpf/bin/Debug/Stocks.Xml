@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfStock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Stock>
+    <Name>Google</Name>
+    <Symbol>goog</Symbol>
+    <Ipo>2004-04-18T00:00:00</Ipo>
+    <Value>565.10</Value>
+  </Stock>
+  <Stock>
+    <Name>Microsoft</Name>
+    <Symbol>msft</Symbol>
+    <Ipo>1986-03-25T00:00:00</Ipo>
+    <Value>29.29</Value>
+  </Stock>
+  <Stock>
+    <Name>British Petrol</Name>
+    <Symbol>bp</Symbol>
+    <Ipo>2005-09-12T00:00:00</Ipo>
+    <Value>39.02</Value>
+  </Stock>
+  <Stock>
+    <Name>Toyota MC</Name>
+    <Symbol>tm</Symbol>
+    <Ipo>2006-08-12T00:00:00</Ipo>
+    <Value>76.49</Value>
+  </Stock>
+  <Stock>
+    <Name>Costco</Name>
+    <Symbol>cost</Symbol>
+    <Ipo>2004-08-28T00:00:00</Ipo>
+    <Value>88.50</Value>
+  </Stock>
+  <Stock>
+    <Name>Oracle</Name>
+    <Symbol>orcl</Symbol>
+    <Ipo>1996-03-12T00:00:00</Ipo>
+    <Value>27.03</Value>
+  </Stock>
+  <Stock>
+    <Name>Facebook</Name>
+    <Symbol>fb</Symbol>
+    <Ipo>2012-05-17T00:00:00</Ipo>
+    <Value>27.40</Value>
+  </Stock>
+</ArrayOfStock>

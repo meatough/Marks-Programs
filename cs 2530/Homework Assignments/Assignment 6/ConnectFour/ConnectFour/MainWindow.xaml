@@ -1,0 +1,41 @@
+﻿<Window x:Class="ConnectFour.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="620" Width="510">
+    
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="10 10 0 0" />
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="30" />
+            <Setter Property="Foreground" Value="Blue" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Height" Value="50" />
+        </Style>
+        <Style TargetType="StackPanel">
+            <Setter Property="Background" Value="DarkRed" />
+        </Style>
+        <Style TargetType="Canvas" >
+            <Setter Property="Background" Value="Yellow" />
+            <Setter Property="Width" Value="500" />
+            <Setter Property="Height" Value="570" />
+        </Style>
+    </Window.Resources>
+
+    <StackPanel>
+        <Label Content="Connect Four" />
+        <Canvas x:Name="BackgroundCanvas" Margin="1,0" >
+            <TextBox IsReadOnly="True" FontSize="25" x:Name="TextBox" Height="79" Width="500" />
+            <Button x:Name="Column1Button" Content="Column1" Canvas.Left="20" Margin="0" Canvas.Top="95" Click="Column1Button_Click" />
+            <Button x:Name="Column2Button" Content="Column2" Canvas.Left="90" Margin="0" Canvas.Top="95" Click="Column2Button_Click"/>
+            <Button x:Name="Column3Button" Content="Column3" Canvas.Left="155" Margin="0" Canvas.Top="95" Click="Column3Button_Click"/>
+            <Button x:Name="Column4Button" Content="Column4" Canvas.Left="225" Margin="0" Canvas.Top="95" Click="Column4Button_Click"/>
+            <Button x:Name="Column5Button" Content="Column5" Canvas.Left="290" Margin="0" Canvas.Top="95" Click="Column5Button_Click"/>
+            <Button x:Name="Column6Button" Content="Column6" Canvas.Left="360" Margin="0" Canvas.Top="95" Click="Column6Button_Click"/>
+            <Button x:Name="Column7Button" Content="Column7" Canvas.Left="425" Margin="0" Canvas.Top="95" Click="Column7Button_Click"/>
+            <Button x:Name="ClickToClose" Content="Click To Close" FontSize="25" Height ="100" Width="200" Canvas.Left="155" Margin="0" Canvas.Top="139" Click="ClickToClose_Click" RenderTransformOrigin="0.22,1.3"/>
+        </Canvas>
+    </StackPanel>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\bin\Debug\FileDialog.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\bin\Debug\FileDialog.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\MainWindow.baml
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\App.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog_MarkupCompile.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog.g.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog.Properties.Resources.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog.csproj.GenerateResource.Cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Demo File Dialog Program Along\FileDialog\obj\x86\Debug\FileDialog.pdb

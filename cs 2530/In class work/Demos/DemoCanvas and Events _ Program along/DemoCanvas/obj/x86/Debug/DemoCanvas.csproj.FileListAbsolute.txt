@@ -1,0 +1,38 @@
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\bin\Debug\DemoCanvas.exe
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\bin\Debug\DemoCanvas.pdb
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\MainWindow.baml
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\App.g.cs
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas_MarkupCompile.cache
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.g.resources
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.Properties.Resources.resources
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.exe
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\DemoCanvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.pdb
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.exe
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.pdb
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\bin\Debug\DemoCanvas.exe
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\bin\Debug\DemoCanvas.pdb
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\MainWindow.baml
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\App.g.cs
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas_MarkupCompile.cache
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.g.resources
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\DemoCanvas.Properties.Resources.resources
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson08 WPF graphics and event handling intro\Demo Canvas and Events\DemoCanvas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\bin\Debug\DemoCanvas.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\bin\Debug\DemoCanvas.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\MainWindow.baml
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\App.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas_MarkupCompile.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas.g.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas.Properties.Resources.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoCanvas and Events _ Program along\DemoCanvas\obj\x86\Debug\DemoCanvas.csproj.GenerateResource.Cache

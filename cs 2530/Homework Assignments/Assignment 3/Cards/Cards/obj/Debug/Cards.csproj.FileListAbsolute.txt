@@ -1,0 +1,6 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Cards\Cards\obj\Debug\Cards.pdb

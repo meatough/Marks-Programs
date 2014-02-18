@@ -1,0 +1,5 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\demo enum program\W4L1Demo\bin\Debug\W4L1Demo.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\demo enum program\W4L1Demo\bin\Debug\W4L1Demo.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\demo enum program\W4L1Demo\obj\x86\Debug\l03Demo.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\demo enum program\W4L1Demo\obj\x86\Debug\W4L1Demo.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\demo enum program\W4L1Demo\obj\x86\Debug\W4L1Demo.pdb

@@ -1,0 +1,14 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\KSLMods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\KSLMods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\KSLMods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\KSLMods\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\KSLMods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\KSLMods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\bin\Debug\KSL.mdf
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\KSL Mods\ConsoleApplication1\bin\Debug\KSL_log.ldf

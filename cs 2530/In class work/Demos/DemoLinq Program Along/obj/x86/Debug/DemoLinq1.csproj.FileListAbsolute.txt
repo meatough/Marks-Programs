@@ -1,0 +1,5 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoLinq Program Along\bin\Debug\Linq1.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoLinq Program Along\bin\Debug\Linq1.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoLinq Program Along\obj\x86\Debug\DemoLinq1.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoLinq Program Along\obj\x86\Debug\Linq1.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoLinq Program Along\obj\x86\Debug\Linq1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\bin\Debug\LabGraph.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\bin\Debug\LabGraph.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\bin\Debug\LabGraph.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\MainWindow.baml
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\MainWindow.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\App.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph_MarkupCompile.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph.g.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph.Properties.Resources.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph.csproj.GenerateResource.Cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabGraph\LabGraph\obj\Debug\LabGraph.pdb

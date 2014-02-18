@@ -1,0 +1,6 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 5\ConsoleConnectFour\ConsoleConnectFour\bin\Debug\ConsoleConnectFour.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 5\ConsoleConnectFour\ConsoleConnectFour\bin\Debug\ConsoleConnectFour.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 5\ConsoleConnectFour\ConsoleConnectFour\bin\Debug\ConsoleConnectFour.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 5\ConsoleConnectFour\ConsoleConnectFour\obj\Debug\ConsoleConnectFour.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 5\ConsoleConnectFour\ConsoleConnectFour\obj\Debug\ConsoleConnectFour.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 5\ConsoleConnectFour\ConsoleConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache

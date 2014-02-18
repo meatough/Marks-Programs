@@ -1,0 +1,7 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\bin\Debug\LabFile.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\bin\Debug\Poem.txt
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\bin\Debug\LabFile.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\bin\Debug\LabFile.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\obj\Debug\LabFile.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\obj\Debug\LabFile.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\LabFile\LabFile\obj\Debug\LabFile.csprojResolveAssemblyReference.cache

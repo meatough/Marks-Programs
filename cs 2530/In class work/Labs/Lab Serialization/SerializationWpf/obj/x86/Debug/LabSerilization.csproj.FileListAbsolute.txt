@@ -1,0 +1,12 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\bin\Debug\SerializationWpf.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\bin\Debug\SerializationWpf.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\LabSerilization.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\MainWindow.baml
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\App.g.cs
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\SerializationWpf_MarkupCompile.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\SerializationWpf.g.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\CS2530.SerializationWpf.Properties.Resources.resources
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\LabSerilization.csproj.GenerateResource.Cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\SerializationWpf.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Serialization\SerializationWpf\obj\x86\Debug\SerializationWpf.pdb

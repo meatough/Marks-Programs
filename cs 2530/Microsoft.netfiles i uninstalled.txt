@@ -1,0 +1,3 @@
+microsoft.net framework 4.5 sdk
+microsoft.net framework 4.5 Multi Targeting Pack
+microsoft.net framework 4.5 

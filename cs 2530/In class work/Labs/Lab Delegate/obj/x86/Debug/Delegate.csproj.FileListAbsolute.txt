@@ -1,0 +1,7 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Delegate\bin\Debug\Delegate.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Delegate\bin\Debug\Delegate.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Delegate\obj\x86\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Delegate\obj\x86\Debug\Delegate.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Delegate\obj\x86\Debug\Delegate.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Labs\Lab Delegate\obj\x86\Debug\Delegate.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Labs\Lab Delegate\obj\x86\Debug\Delegate.pdb

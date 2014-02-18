@@ -1,0 +1,9 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\ExtensionMethodLab\ExtensionMethodLab\bin\Debug\ExtensionMethodLab.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\ExtensionMethodLab\ExtensionMethodLab\bin\Debug\ExtensionMethodLab.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\ExtensionMethodLab\ExtensionMethodLab\bin\Debug\ExtensionMethodLab.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\ExtensionMethodLab\ExtensionMethodLab\obj\Debug\ExtensionMethodLab.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\ExtensionMethodLab\ExtensionMethodLab\obj\Debug\ExtensionMethodLab.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\ExtensionMethodLab\ExtensionMethodLab\obj\Debug\ExtensionMethodLab.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Labs\ExtensionMethodLab\ExtensionMethodLab\bin\Debug\ExtensionMethodLab.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Labs\ExtensionMethodLab\ExtensionMethodLab\obj\Debug\ExtensionMethodLab.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\Labs\ExtensionMethodLab\ExtensionMethodLab\obj\Debug\ExtensionMethodLab.pdb

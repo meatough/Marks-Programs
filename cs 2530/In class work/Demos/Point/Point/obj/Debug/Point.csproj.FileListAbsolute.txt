@@ -1,0 +1,6 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Point\Point\bin\Debug\Point.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Point\Point\bin\Debug\Point.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Point\Point\bin\Debug\Point.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Point\Point\obj\Debug\Point.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 3\Point\Point\obj\Debug\Point.pdb

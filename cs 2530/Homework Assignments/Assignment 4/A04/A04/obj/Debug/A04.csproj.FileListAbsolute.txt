@@ -1,0 +1,7 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\A04\A04\bin\Debug\A04.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 4\A04\A04\bin\Debug\A04.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 4\A04\A04\bin\Debug\A04.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 4\A04\A04\bin\Debug\A04.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 4\A04\A04\obj\Debug\A04.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 4\A04\A04\obj\Debug\A04.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\Homework Assignments\Assignment 4\A04\A04\obj\Debug\A04.pdb

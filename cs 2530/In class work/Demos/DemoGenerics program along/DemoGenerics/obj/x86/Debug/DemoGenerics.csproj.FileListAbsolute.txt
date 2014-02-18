@@ -1,0 +1,5 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoGenerics program along\DemoGenerics\bin\Debug\DemoGenerics.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoGenerics program along\DemoGenerics\bin\Debug\DemoGenerics.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoGenerics program along\DemoGenerics\obj\x86\Debug\DemoGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoGenerics program along\DemoGenerics\obj\x86\Debug\DemoGenerics.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Demos\DemoGenerics program along\DemoGenerics\obj\x86\Debug\DemoGenerics.pdb

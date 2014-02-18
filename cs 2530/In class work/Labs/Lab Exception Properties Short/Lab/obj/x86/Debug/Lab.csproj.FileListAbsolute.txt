@@ -1,0 +1,17 @@
+C:\Users\MargretP\CS2530 Spring 2012\Week\_Week08 Midterm error handling\Lab\Lab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MargretP\CS2530 Spring 2012\Week\_Week08 Midterm error handling\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\MargretP\CS2530 Spring 2012\Week\_Week08 Midterm error handling\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\MargretP\CS2530 Spring 2012\Week\_Week08 Midterm error handling\Lab\Lab\obj\x86\Debug\Lab.exe
+C:\Users\MargretP\CS2530 Spring 2012\Week\_Week08 Midterm error handling\Lab\Lab\obj\x86\Debug\Lab.pdb
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson14 error handling\Lab\Lab\obj\x86\Debug\Lab.exe
+C:\Users\MargretP\CS2530 2012 Fall\Lesson\_Lesson14 error handling\Lab\Lab\obj\x86\Debug\Lab.pdb
+C:\Users\mposch\SkyDrive\CSIS-2530 Fall 2013\Lesson\_Lesson14 error handling\Lab Exception Properties\Lab\Lab\obj\x86\Debug\Lab.exe
+C:\Users\mposch\SkyDrive\CSIS-2530 Fall 2013\Lesson\_Lesson14 error handling\Lab Exception Properties\Lab\Lab\obj\x86\Debug\Lab.pdb
+C:\Users\mposch\SkyDrive\CSIS-2530 Fall 2013\Lesson\_Lesson14 error handling\Lab Exception Properties\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\mposch\SkyDrive\CSIS-2530 Fall 2013\Lesson\_Lesson14 error handling\Lab Exception Properties\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\mposch\SkyDrive\CSIS-2530 Fall 2013\Lesson\_Lesson14 error handling\Lab Exception Properties\Lab\Lab\obj\x86\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Exception Properties Short\Lab\obj\x86\Debug\Lab.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Exception Properties Short\Lab\obj\x86\Debug\Lab.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Exception Properties Short\Lab\bin\Debug\Lab.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Exception Properties Short\Lab\bin\Debug\Lab.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\Labs\Lab Exception Properties Short\Lab\obj\x86\Debug\Lab.csprojResolveAssemblyReference.cache

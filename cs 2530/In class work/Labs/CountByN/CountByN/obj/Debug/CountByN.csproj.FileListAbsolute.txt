@@ -1,0 +1,6 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2550\CountByN\CountByN\bin\Debug\CountByN.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2550\CountByN\CountByN\bin\Debug\CountByN.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2550\CountByN\CountByN\bin\Debug\CountByN.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2550\CountByN\CountByN\obj\Debug\CountByN.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2550\CountByN\CountByN\obj\Debug\CountByN.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2550\CountByN\CountByN\obj\Debug\CountByN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+C:\Users\Eatough\Documents\school\programming classes\cs 2530\In class work\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
