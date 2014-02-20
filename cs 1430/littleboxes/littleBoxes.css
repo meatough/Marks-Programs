@@ -1,0 +1,44 @@
+body
+{
+    background-color: grey;
+
+}
+div.containerBox
+{
+    background-color: #104040;
+    color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 10px; 
+    height: auto;
+    width:  250px;
+    position: relative;
+    top:    -7px;
+    left:   -7px;
+}
+div.shadowBox
+{
+    background-color: #0000ff;
+    position: relative;
+    top:    +7px;
+    left:   +7px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    height: 300px;
+    width:  250px;
+}
+div.box1
+{
+    background-color: black;
+    color: white;
+    border-style: groove;
+    border-color: blue;
+    margin: 20px;
+    padding: 20px;
+    height: 300px;
+    width:  250px;
+    position:   absolute;
+    top:    30px;
+    left:   500px;
+}
